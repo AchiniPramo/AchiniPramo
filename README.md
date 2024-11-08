@@ -3,7 +3,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing my studies at the **Institute of Software Engineering (IJSE)**, where I'm diving deep into the world of Computer Science and Software Engineering.
+- 🎓  I'm studying at **Institute of Software Engineering (IJSE)**.
 - 💡 Driven by a passion for continuous learning, I’m always exploring new areas of technology and improving my skills.
 - 💻 Competitive programming enthusiast, tackling challenges and honing my problem-solving skills on **Codeforces**.
 - 🌱 Currently expanding my expertise in **Java, MySQL, Hibernate, HTML, JavaFX, and CSS**.
