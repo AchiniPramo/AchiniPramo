@@ -81,7 +81,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/achinipramo/github-profile-trophy">
+  <a href="https://github.com/AchiniPramo/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=achinipramo&theme=radical&no-frame=true&row=1&column=6" alt="achinipramo" />
   </a>
 </p>
