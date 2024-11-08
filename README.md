@@ -1,6 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Achini Pramodhya</h1>
 
+
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=AchiniPramo=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
+
 ## 👩‍💻 About Me
 
 - 🎓  I'm studying at **Institute of Software Engineering (IJSE)**.
