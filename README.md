@@ -2,10 +2,14 @@
 ---
 
 ## 👩‍💻 About Me
-- 🧑‍💻 I’m a software developer with expertise in **JavaScript, Python, HTML, CSS, React, Node.js**, and **MongoDB**.
-- 🌱 Currently learning **UI/UX Design**, **Machine Learning**, and **Mobile Development**.
-- 🚀 Passionate about creating impactful software solutions and collaborating with teams to deliver high-quality products.
-- 💬 Ask me about **full-stack development**, **UI/UX**, and **web/mobile apps**.
+- 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
+- 🌱 I’m currently learning Computer Science and Software Engineering.
+- 💻 I am a competitive programmer mainly at Codeforces.
+- 👨 Always learning new things
+- 👯 I’m looking to collaborate.
+- 🤔 I’m looking for help with Coding.
+- 🌱 Currently learning Java, MySql, Hibarnate, HTML, JavaFx, CSS.
+funFact: "Dream big because of that you will learn how to think bigger 👽👽"
 
 ---
 
