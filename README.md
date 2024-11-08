@@ -1,7 +1,4 @@
 # Hi, I'm Achini Pramodhya 👋
-
-Welcome to my GitHub profile! I'm a full-stack developer passionate about building dynamic and responsive web applications. Let's connect!
-
 ---
 
 ## 👩‍💻 About Me
