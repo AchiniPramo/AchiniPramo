@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Achini Pramodhya 👋
 
-<!--
-**AchiniPramo/AchiniPramo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a full-stack developer passionate about building dynamic and responsive web applications. Let's connect!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🧑‍💻 I’m a software developer with expertise in **JavaScript, Python, HTML, CSS, React, Node.js**, and **MongoDB**.
+- 🌱 Currently learning **UI/UX Design**, **Machine Learning**, and **Mobile Development**.
+- 🚀 Passionate about creating impactful software solutions and collaborating with teams to deliver high-quality products.
+- 💬 Ask me about **full-stack development**, **UI/UX**, and **web/mobile apps**.
+
+---
+
+## 📚 Skills
+- **Languages & Frameworks:** JavaScript, Python, React, Node.js, HTML, CSS, Bootstrap, jQuery
+- **Databases:** MongoDB, SQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Docker
+- **UI/UX Design:** Adobe XD, Figma, Sketch (interested in enhancing skills)
+
+---
