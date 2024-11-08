@@ -3,29 +3,22 @@
 <h3 align="center"> Student at IJSE - Institute of Software Engineering</h3>
 
 ## 👩‍💻 About Me
-- 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
-- 🌱 I’m currently learning Computer Science and Software Engineering.
-- 💻 I am a competitive programmer mainly at Codeforces.
-- 👨 Always learning new things
-- 👯 I’m looking to collaborate.
-- 🤔 I’m looking for help with Coding.
-- 🌱 Currently learning Java, MySql, Hibarnate, HTML, JavaFx, CSS.
-funFact: "Dream big because of that you will learn how to think bigger 👽👽"
 
----
+- 🎓 Pursuing my studies at the **Institute of Software Engineering (IJSE)**, where I'm diving deep into the world of Computer Science and Software Engineering.
+- 💡 Driven by a passion for continuous learning, I’m always exploring new areas of technology and improving my skills.
+- 💻 Competitive programming enthusiast, tackling challenges and honing my problem-solving skills on **Codeforces**.
+- 🌱 Currently expanding my expertise in **Java, MySQL, Hibernate, HTML, JavaFX, and CSS**.
+- 🤝 Open to collaboration on innovative projects and looking to connect with like-minded developers.
+- 🧠 Always curious, always evolving—dreaming big teaches me to think bigger.
+
+> **Fun Fact:** "Dream big, because dreaming big teaches you to think bigger. 👽👽"
+
 
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
+
+ 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
