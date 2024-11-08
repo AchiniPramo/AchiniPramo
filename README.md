@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Achini Pramodhya</h1>
-<h3 align="center"> Student at IJSE - Institute of Software Engineering</h3>
 
 ## 👩‍💻 About Me
 
