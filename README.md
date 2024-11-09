@@ -1,20 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Achini Pramodhya</h1>
 
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-blue" width="600" height="30" />
-</p>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=piyumalnipuna60&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="30" />
-</p>
-<p align="center">
-    <a href="https://github.com/piyumalnipuna60?tab=followers">
-        <img src="https://img.shields.io/github/followers/piyumalnipuna60.svg?style=social&label=Follow" alt="GitHub followers" />
-    </a>
 </p>
 
 
@@ -47,6 +36,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf3bc467-52f2-4f71-8d15-825beba605a6" alt="Centered Image">
+</p>
 
 
 
