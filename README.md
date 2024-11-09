@@ -67,6 +67,14 @@
   </a>
 </p>
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AchiniPramo&theme=tokyonight" alt="Profile Details">
+</p>
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AchiniPramo&theme=tokyonight&utcOffset=8" alt="Productive Time">
+</p>
 ## 🎨 Design Projects
 
 - 🖌️ UI/UX Designs with Figma
